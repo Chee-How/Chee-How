@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/Chee-How/Chee-How/main/Yoshi_Idle.png)
 
 <!-- Add your details -->
 
